@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "categoria": "Pizzas Tradicionais",
+    "nome": "Pizza Margherita",
+    "descricao": "Molho de tomate, mussarela, tomate e manjericão.",
+    "preco": "R$ 39,90",
+    "imagem": "https://source.unsplash.com/400x300/?pizza,margherita"
+  },
+  {
+    "id": 2,
+    "categoria": "Pizzas Tradicionais",
+    "nome": "Pizza Calabresa",
+    "descricao": "Calabresa fatiada, cebola e mussarela.",
+    "preco": "R$ 42,90",
+    "imagem": "https://source.unsplash.com/400x300/?pizza,calabresa"
+  },
+  {
+    "id": 3,
+    "categoria": "Pizzas Tradicionais",
+    "nome": "Pizza Portuguesa",
+    "descricao": "Presunto, ovos, cebola, ervilha e mussarela.",
+    "preco": "R$ 44,90",
+    "imagem": "https://source.unsplash.com/400x300/?pizza,portuguesa"
+  },
+  {
+    "id": 4,
+    "categoria": "Pizzas Especiais",
+    "nome": "Pizza Quatro Queijos",
+    "descricao": "Mussarela, provolone, gorgonzola e parmesão.",
+    "preco": "R$ 46,90",
+    "imagem": "https://source.unsplash.com/400x300/?pizza,quatro-queijos"
+  },
+  {
+    "id": 5,
+    "categoria": "Pizzas Especiais",
+    "nome": "Pizza Tres Queijos",
+    "descricao": "Mussarela, gorgonzola e parmesão.",
+    "preco": "R$ 46,90",
+    "imagem": "https://source.unsplash.com/400x300/?pizza,tres-queijos"  
+    },
+  {
+    "id": 6,
+    "categoria": "Pizzas Especiais",
+    "nome": "Pizza Frango c/ Catupiry",
+    "descricao": "Frango desfiado e catupiry cremoso.",
+    "preco": "R$ 44,90",
+    "imagem": "https://source.unsplash.com/400x300/?pizza,frango"
+  },
+  {
+    "id": 7,
+    "categoria": "Entradas",
+    "nome": "Pão de Alho",
+    "descricao": "Tradicional, crocante e bem recheado.",
+    "preco": "R$ 14,90",
+    "imagem": "https://source.unsplash.com/400x300/?breadsticks"
+  },
+  {
+    "id": 8,
+    "categoria": "Entradas",
+    "nome": "Bruschetta",
+    "descricao": "Pão italiano, tomate, manjericão e azeite.",
+    "preco": "R$ 18,90",
+    "imagem": "https://source.unsplash.com/400x300/?bruschetta"
+  },
+  {
+    "id": 9,
+    "categoria": "Bebidas",
+    "nome": "Refrigerante Lata",
+    "descricao": "Coca-Cola, Guaraná, Fanta ou Sprite.",
+    "preco": "R$ 6,00",
+    "imagem": "https://source.unsplash.com/400x300/?soda"
+  },
+  {
+    "id": 10,
+    "categoria": "Bebidas",
+    "nome": "Cerveja",
+    "descricao": "Long neck Heineken, Budweiser ou Stella.",
+    "preco": "R$ 9,00",
+    "imagem": "https://source.unsplash.com/400x300/?beer"
+  },
+  {
+    "id": 11,
+    "categoria": "Bebidas",
+    "nome": "Suco Natural",
+    "descricao": "Laranja, abacaxi ou maracujá.",
+    "preco": "R$ 8,00",
+    "imagem": "https://source.unsplash.com/400x300/?juice"
+  },
+  {
+    "id": 12,
+    "categoria": "Sobremesas",
+    "nome": "Tiramisù",
+    "descricao": "Clássico italiano com café e mascarpone.",
+    "preco": "R$ 19,90",
+    "imagem": "https://source.unsplash.com/400x300/?dessert,tiramisu"
+  },
+  {
+    "id": 13,
+    "categoria": "Sobremesas",
+    "nome": "Pizza Doce de Nutella",
+    "descricao": "Nutella com morangos frescos.",
+    "preco": "R$ 24,90",
+    "imagem": "https://source.unsplash.com/400x300/?dessert,pizza"
+  },
+  {
+    "id": 14,
+    "categoria": "Sobremesas",
+    "nome": "Sorvete Artesanal",
+    "descricao": "Sabores: chocolate, baunilha ou pistache.",
+    "preco": "R$ 12,00",
+    "imagem": "https://source.unsplash.com/400x300/?dessert,icecream"
+  }
+]
